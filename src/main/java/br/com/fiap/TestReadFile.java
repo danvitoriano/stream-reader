@@ -6,6 +6,7 @@ import java.nio.file.Paths;
 import java.util.stream.Stream;
 
 public class TestReadFile {
+
     public static void main(String[] args) {
         String filename = "/home/dvitoriano/workspace/fiap/stream-reader/lines.txt";
 
